@@ -2,7 +2,7 @@ import React from "react";
 import me2 from './images/me2.jpg'
 export default function Intro() {
   return (
-    <section class="ml-20 mt-20 mr-20 w-2/5 flex flex-col justify-around">
+    <section class="ml-20 mt-20 mr-20 w-2/5 mb-60 flex flex-col justify-around">
       <div>
         <img
           src={me2}
@@ -11,8 +11,8 @@ export default function Intro() {
         />
       </div>
       <div>
-        <h1 class="text-3xl font-bold">Ishika Punchariya </h1>
-        <p align="justify">
+        <h1 class="text-3xl font-bold mt-5">Ishika Punchariya </h1>
+        <p align="justify" class="mt-10">
           I am a 3rd year Computer Science student at Maharaja Surajmal
           Institute of Technology. I am a Android Developer (Kotlin). I am a
           passionate learner and love to explore new technologies. My tech stack
