@@ -12,7 +12,7 @@ export default function Intro() {
       </div>
       <div>
         <h1 class="text-3xl font-bold mt-5">Ishika Punchariya </h1>
-        <p align="justify" class="mt-10">
+        <p align="justify" class="mt-10 bg-white-500/50 p-2 shadow-xl rounded">
           I am a 3rd year Computer Science student at Maharaja Surajmal
           Institute of Technology. I am a Android Developer (Kotlin). I am a
           passionate learner and love to explore new technologies. My tech stack
@@ -23,5 +23,3 @@ export default function Intro() {
     </section>
   );
 }
-
-// https://drive.google.com/file/d/1GVPKqF76XAUadRp1c4pf6oKnustaft93/view

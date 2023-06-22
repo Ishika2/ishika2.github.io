@@ -3,7 +3,6 @@ import Intro from "./components/Intro";
 import Socials from "./components/Socials";
 import CommunityWork from "./components/CommunityWork";
 import ProfessionalExperience from "./components/ProfessionalExperience";
-// import './App.css';
 
 function App() {
   return (

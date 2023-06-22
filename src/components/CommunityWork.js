@@ -24,8 +24,8 @@ export default function CommunityWork() {
     <div>
       <h1 class="text-2xl font-bold mt-16">Community Work</h1>
       <section class="grid grid-cols-2">
-        <Card className="mt-10 w-50 mr-6 bg-gray-200 hover:bg-white p-6 rounded-xl shadow-lg">
-          <CardHeader floated={false} className="h-40">
+        <Card className="mt-10 w-50 mr-6 bg-gray-200 hover:bg-white p-0 rounded-xl shadow-lg">
+          <CardHeader floated={false} className="h-50 mt-0">
             <img src={Azure} alt="With Shraddha Didi" />
           </CardHeader>
           <CardBody className="text-center">
@@ -50,8 +50,8 @@ export default function CommunityWork() {
           </CardBody>
         </Card>
 
-        <Card className="mt-10 w-50 ml-6 bg-gray-200 hover:bg-white p-6 rounded-xl shadow-lg">
-          <CardHeader floated={false} className="h-40">
+        <Card className="mt-10 w-50 ml-6 bg-gray-200 hover:bg-white p-0 rounded-xl shadow-lg">
+          <CardHeader floated={false} className="h-50 mt-0">
             <img src={gfg} alt="With Sandeep Jain Sir" />
           </CardHeader>
           <CardBody className="text-center">
@@ -76,8 +76,8 @@ export default function CommunityWork() {
           </CardBody>
         </Card>
 
-        <Card className="mt-10 w-50 mr-6 bg-gray-200 hover:bg-white p-6 rounded-xl shadow-lg">
-          <CardHeader floated={false} className="h-40">
+        <Card className="mt-10 w-50 mr-6 bg-gray-200 hover:bg-white p-0 rounded-xl shadow-lg">
+          <CardHeader floated={false} className="h-50 mt-0">
             <img src={ispa} alt="My Team ISPA" />
           </CardHeader>
           <CardBody className="text-center">
@@ -102,8 +102,8 @@ export default function CommunityWork() {
           </CardBody>
         </Card>
 
-        <Card className="mt-10 w-50 ml-6 bg-gray-200 hover:bg-white p-6 rounded-xl shadow-lg">
-          <CardHeader floated={false} className="h-40">
+        <Card className="mt-10 w-50 ml-6 bg-gray-200 hover:bg-white p-0 rounded-xl shadow-lg">
+          <CardHeader floated={false} className="h-50 mt-0">
             <img src={devfest} alt="Technical events" />
           </CardHeader>
           <CardBody className="text-center">
@@ -128,8 +128,8 @@ export default function CommunityWork() {
           </CardBody>
         </Card>
 
-        <Card className="mt-10 w-50 mr-6 bg-gray-200 hover:bg-white p-6 rounded-xl shadow-lg">
-          <CardHeader floated={false} className="h-40">
+        <Card className="mt-10 w-50 mr-6 bg-gray-200 hover:bg-white p-0 rounded-xl shadow-lg">
+          <CardHeader floated={false} className="h-50 mt-0">
             <img src={gdsc} alt="Team GDSC MSIT" />
           </CardHeader>
           <CardBody className="text-center">
@@ -167,9 +167,9 @@ export default function CommunityWork() {
           </CardBody>
         </Card>
 
-        <Card className="mt-10 w-50 ml-6 bg-gray-200 hover:bg-white p-6 rounded-xl shadow-lg">
-          <CardHeader floated={false} className="h-40">
-            <img src={ieee} alt="Team IEEE MSIT" />
+        <Card className="mt-10 w-50 ml-6 bg-gray-200 hover:bg-white p-0 rounded-xl shadow-lg">
+          <CardHeader floated={false} className="h-55 mt-0">
+            <img src={ieee} alt="Team IEEE MSIT" class="h-55" />
           </CardHeader>
           <CardBody className="text-center">
             <Typography variant="h4" color="blue-gray" className="mb-2">

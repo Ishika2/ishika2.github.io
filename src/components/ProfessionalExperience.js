@@ -8,8 +8,6 @@ import {
   Avatar,
   Button,
 } from "@material-tailwind/react";
-// import { RocketLaunchIcon } from "@heroicons/react/24/solid";
-// import { ArrowLongRightIcon } from "@heroicons/react/24/outline";
 
 import iit_delhi_logo from "./images/iit_delhi_logo.png";
 import Android_Logo from "./images/Android_Logo.png";
@@ -98,7 +96,7 @@ export default function ProfessionalExperience() {
               color="white"
               className="mb-6 font-medium leading-[1.5]"
             >
-              Mentee at Microsoft Engage 2021
+              Mentee at Microsoft Engage 2022
             </Typography>
             <Typography variant="h5" className="mb-4 text-white">
               Microsoft
